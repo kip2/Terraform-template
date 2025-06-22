@@ -1,0 +1,2 @@
+# Terraform-template
+Terraformのテンプレートファイル
