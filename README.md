@@ -22,6 +22,8 @@ EC2を立ち上げるだけのテンプレートファイル。
 
 ```sh
 brew insatll awscli
+
+aws --version
 ```
 
 以下のコマンドで`config`情報を作成する
